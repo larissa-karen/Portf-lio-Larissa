@@ -10,8 +10,10 @@
 }
 
 body{
+  height: 100vh;
+  box-sizing: border-box;
   background-color: var(--cor-fundo);
-  color: var(--cor-texto)
+  color: var(--cor-texto) 
 }
 
 .apresentacao{
